@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ## ⚡ **News**
 _**May 2024:** Our new work, **[SlimPLM]([https://github.com/plageon/SlimPlm])**, has been accepted by **ACL 2024 main** conference._
 
-<img src='https://github.com/plageon/SlimPlm/blob/main/figures/main-pipeline.png' height="50%" width="50%">
+<img src='https://github.com/plageon/SlimPlm/blob/main/figures/main-pipeline.png' height="75%" width="75%">
 
