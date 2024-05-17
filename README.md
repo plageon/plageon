@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋，I'm Jiejun Tan
 
 <!--
 **plageon/plageon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 How to reach me: zstanjj [AT] gmail [DOT] com
+
+## ⚡ **News**
+_**May 2024:** Our new work, **[SlimPLM]([https://github.com/plageon/SlimPlm])**, has been accepted by **ACL 2024 main** conference._
+
+<img src='https://github.com/plageon/SlimPlm/blob/main/figures/main-pipeline.png' height="50%" width="50%">
+
