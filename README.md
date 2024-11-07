@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 📫 How to reach me: zstanjj [AT] gmail [DOT] com
 
 ## ⚡ **News**
-_**May 2024:** Our new work, **[SlimPLM](https://github.com/plageon/SlimPlm)**, has been accepted by **ACL 2024 main** conference._
 
-_📖 paper link: https://arxiv.org/abs/2402.12052_
+- **November 2024:** Our paper HtmlRAG is availabel on [arxiv](https://arxiv.org/abs/2411.02959). The open-source toolkit and models are released. You can apply HtmlRAG in your own RAG systems now.
+
+<img src='https://github.com/plageon/HtmlRAG/blob/main/figures/html-pipeline.png' height="75%" width="75%">
+
+- **May 2024:** Our new work, **[SlimPLM](https://github.com/plageon/SlimPlm)**, has been accepted by **ACL 2024 main** conference.
+📖 [paper link](https://arxiv.org/abs/2402.12052)
 
 
 <img src='https://github.com/plageon/SlimPlm/blob/main/figures/main-pipeline.png' height="75%" width="75%">
