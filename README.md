@@ -19,11 +19,16 @@ Here are some ideas to get you started:
 
 ## ⚡ **News**
 
-- **November 2024:** Our paper HtmlRAG is availabel on [arxiv](https://arxiv.org/abs/2411.02959). The open-source toolkit and models are released. You can apply HtmlRAG in your own RAG systems now.
+- **August 2025:** Our paper **[HierSearch](https://github.com/plageon/HierSearch)** is availabel on [arxiv](https://arxiv.org/abs/2508.08088). You can apply HierSearch in your own RAG systems now.
+
+<img src='https://github.com/plageon/HierSearch/blob/main/figures/pipeline0730.png' height="75%" width="75%">
+
+- **November 2024:**  Our work, **[HtmlRAG](https://github.com/plageon/HtmlRAG)**, has been accepted by **WWW 2025** conference. The open-source toolkit and models are released. You can apply HtmlRAG in your own RAG systems now.
+📖 [paper link](https://arxiv.org/abs/2411.02959)
 
 <img src='https://github.com/plageon/HtmlRAG/blob/main/figures/html-pipeline.png' height="75%" width="75%">
 
-- **May 2024:** Our new work, **[SlimPLM](https://github.com/plageon/SlimPlm)**, has been accepted by **ACL 2024 main** conference.
+- **May 2024:** Our work, **[SlimPLM](https://github.com/plageon/SlimPlm)**, has been accepted by **ACL 2024 main** conference.
 📖 [paper link](https://arxiv.org/abs/2402.12052)
 
 
