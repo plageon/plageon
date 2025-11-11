@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ## ⚡ **News**
 
-- **August 2025:** Our paper **[HierSearch](https://github.com/plageon/HierSearch)** is availabel on [arxiv](https://arxiv.org/abs/2508.08088). You can apply HierSearch in your own RAG systems now.
+- **August 2025:** Our paper **[HierSearch](https://github.com/plageon/HierSearch)** has been accepted by **AAAI 2026** conference. You can deploy the enterprise deep search system HierSearch.
+📖 [paper link](https://arxiv.org/abs/2508.08088)
 
 <img src='https://github.com/plageon/HierSearch/blob/main/figures/pipeline0730.png' height="75%" width="75%">
 
